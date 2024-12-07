@@ -1,0 +1,35 @@
+# Složky generované Unity, které nemají být verzovány
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Soubory specifické pro IDE
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Soubory generované Unity
+*.unitypackage
+*.prefab.meta
+*.asset.meta
+
+# Ostatní nepotřebné soubory
+*.DS_Store
+*.swp
+*.idea/
+*.vs/
+.vscode/
+
+# Soubory pro Unity Cloud Build
+/[Bb]uilds/
